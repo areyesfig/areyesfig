@@ -12,7 +12,7 @@
 
 - 👨🏽‍💻 I’m currently working on [Andes Tech](http://www.andes-tech.cl/);
 - 🌱 I’m currently learning Kotlin & Jetpack , React & MERN Stack; 
-- 🤔 I’m looking for help with Design Pattern 😭;
+
 
 **Languages and Tools:** 
 
