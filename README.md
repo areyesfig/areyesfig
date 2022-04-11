@@ -10,7 +10,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 
 
-- 👨🏽‍💻 I’m currently working on [Andes Tech](http://www.andes-tech.cl/);
+- 👨🏽‍💻 I’m currently working on [Banco Ripley](https://www.bancoripley.cl/);
 - 🌱 I’m currently learning Kotlin & Jetpack , React & MERN Stack; 
 
 
