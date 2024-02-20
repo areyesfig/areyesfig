@@ -11,7 +11,7 @@
 
 
 - 👨🏽‍💻 I’m currently working on [Banco Ripley](https://www.bancoripley.cl/);
-- 🌱 I’m currently learning Kotlin & Jetpack , React & MERN Stack; 
+- 🌱 I’m currently learning AWS , React ; 
 
 
 **Languages and Tools:** 
