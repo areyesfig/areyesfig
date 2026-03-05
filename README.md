@@ -12,6 +12,6 @@
 
 - 👨🏽‍💻 I’m currently working on [Banco de Chile](https://portales.bancochile.cl/personas);
 - 🌱 I’m currently learning a lot of a lot of things ;
-- https://portafolio-ruddy-psi-58.vercel.app/
+- my news site https://www.mainbranch.cl/
 
 
